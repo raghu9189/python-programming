@@ -13,3 +13,11 @@ for value in mySquareNums:
     print(value)
 
 
+def demo():
+    yield 10
+    yield 20
+
+for i in demo():
+    print(f" Number {i}")
+
+
