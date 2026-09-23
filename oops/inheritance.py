@@ -1,21 +1,15 @@
-class Parent:
-    car = "BMW"
-    
-    def drive(self):
-        print("Parent is driving")
+class Person:
+    def __init__(self, Name):
+        self.Name = Name
 
+class Student(Person):
+    def __init__(self, Name, Age, avgMarks):
+        super().__init__(Name)  # calling parent constructor
+        self.Age = Age
+        self.avgMarks = avgMarks
 
-class Child(Parent):
-    car = "Audi"
-
-    def drive(self):
-        print("Child is driving")
-
-ch1 = Child()
-
-print(ch1.car)
-print(ch1.drive())
-
+s1 = Student("Raghu", 20, 35)
+print(s1.Age, s1.avgMarks, s1.Name)
 # | Inheritance                          | Description                                                       |
 # | ------------------------------------ | ----------------------------------------------------------------- |
 # | **Single Inheritance**               | One child, one parent                                             |
