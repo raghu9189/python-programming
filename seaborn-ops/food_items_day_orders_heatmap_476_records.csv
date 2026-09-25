@@ -1,0 +1,470 @@
+Food_Item,Food_Type,Day,Orders
+Butter Chicken,Non-Veg,Monday,168
+Butter Chicken,Non-Veg,Tuesday,151
+Butter Chicken,Non-Veg,Wednesday,147
+Butter Chicken,Non-Veg,Thursday,170
+Butter Chicken,Non-Veg,Friday,201
+Butter Chicken,Non-Veg,Saturday,297
+Butter Chicken,Non-Veg,Sunday,293
+Chicken 555,Non-Veg,Monday,99
+Chicken 555,Non-Veg,Tuesday,117
+Chicken 555,Non-Veg,Wednesday,132
+Chicken 555,Non-Veg,Thursday,91
+Chicken 555,Non-Veg,Friday,137
+Chicken 555,Non-Veg,Saturday,185
+Chicken 555,Non-Veg,Sunday,223
+Chicken 65,Non-Veg,Monday,79
+Chicken 65,Non-Veg,Tuesday,89
+Chicken 65,Non-Veg,Wednesday,73
+Chicken 65,Non-Veg,Thursday,83
+Chicken 65,Non-Veg,Friday,81
+Chicken 65,Non-Veg,Saturday,145
+Chicken 65,Non-Veg,Sunday,152
+Chicken Biryani,Non-Veg,Monday,118
+Chicken Biryani,Non-Veg,Tuesday,144
+Chicken Biryani,Non-Veg,Wednesday,126
+Chicken Biryani,Non-Veg,Thursday,125
+Chicken Biryani,Non-Veg,Friday,174
+Chicken Biryani,Non-Veg,Saturday,233
+Chicken Biryani,Non-Veg,Sunday,239
+Chicken Burger,Non-Veg,Monday,59
+Chicken Burger,Non-Veg,Tuesday,70
+Chicken Burger,Non-Veg,Wednesday,72
+Chicken Burger,Non-Veg,Thursday,83
+Chicken Burger,Non-Veg,Friday,105
+Chicken Burger,Non-Veg,Saturday,108
+Chicken Burger,Non-Veg,Sunday,115
+Chicken Curry,Non-Veg,Monday,164
+Chicken Curry,Non-Veg,Tuesday,165
+Chicken Curry,Non-Veg,Wednesday,154
+Chicken Curry,Non-Veg,Thursday,173
+Chicken Curry,Non-Veg,Friday,216
+Chicken Curry,Non-Veg,Saturday,265
+Chicken Curry,Non-Veg,Sunday,366
+Chicken Fried Rice,Non-Veg,Monday,65
+Chicken Fried Rice,Non-Veg,Tuesday,62
+Chicken Fried Rice,Non-Veg,Wednesday,35
+Chicken Fried Rice,Non-Veg,Thursday,82
+Chicken Fried Rice,Non-Veg,Friday,68
+Chicken Fried Rice,Non-Veg,Saturday,154
+Chicken Fried Rice,Non-Veg,Sunday,135
+Chicken Kathi Roll,Non-Veg,Monday,44
+Chicken Kathi Roll,Non-Veg,Tuesday,86
+Chicken Kathi Roll,Non-Veg,Wednesday,80
+Chicken Kathi Roll,Non-Veg,Thursday,81
+Chicken Kathi Roll,Non-Veg,Friday,103
+Chicken Kathi Roll,Non-Veg,Saturday,143
+Chicken Kathi Roll,Non-Veg,Sunday,134
+Chicken Kebab,Non-Veg,Monday,101
+Chicken Kebab,Non-Veg,Tuesday,76
+Chicken Kebab,Non-Veg,Wednesday,98
+Chicken Kebab,Non-Veg,Thursday,106
+Chicken Kebab,Non-Veg,Friday,106
+Chicken Kebab,Non-Veg,Saturday,161
+Chicken Kebab,Non-Veg,Sunday,127
+Chicken Lollipop,Non-Veg,Monday,65
+Chicken Lollipop,Non-Veg,Tuesday,77
+Chicken Lollipop,Non-Veg,Wednesday,70
+Chicken Lollipop,Non-Veg,Thursday,58
+Chicken Lollipop,Non-Veg,Friday,68
+Chicken Lollipop,Non-Veg,Saturday,122
+Chicken Lollipop,Non-Veg,Sunday,108
+Chicken Noodles,Non-Veg,Monday,98
+Chicken Noodles,Non-Veg,Tuesday,105
+Chicken Noodles,Non-Veg,Wednesday,91
+Chicken Noodles,Non-Veg,Thursday,106
+Chicken Noodles,Non-Veg,Friday,123
+Chicken Noodles,Non-Veg,Saturday,167
+Chicken Noodles,Non-Veg,Sunday,220
+Chicken Pizza,Non-Veg,Monday,80
+Chicken Pizza,Non-Veg,Tuesday,71
+Chicken Pizza,Non-Veg,Wednesday,83
+Chicken Pizza,Non-Veg,Thursday,83
+Chicken Pizza,Non-Veg,Friday,84
+Chicken Pizza,Non-Veg,Saturday,118
+Chicken Pizza,Non-Veg,Sunday,106
+Chicken Shawarma,Non-Veg,Monday,173
+Chicken Shawarma,Non-Veg,Tuesday,149
+Chicken Shawarma,Non-Veg,Wednesday,151
+Chicken Shawarma,Non-Veg,Thursday,176
+Chicken Shawarma,Non-Veg,Friday,196
+Chicken Shawarma,Non-Veg,Saturday,264
+Chicken Shawarma,Non-Veg,Sunday,318
+Chicken Tikka,Non-Veg,Monday,135
+Chicken Tikka,Non-Veg,Tuesday,150
+Chicken Tikka,Non-Veg,Wednesday,148
+Chicken Tikka,Non-Veg,Thursday,178
+Chicken Tikka,Non-Veg,Friday,184
+Chicken Tikka,Non-Veg,Saturday,278
+Chicken Tikka,Non-Veg,Sunday,289
+Chicken Wings,Non-Veg,Monday,93
+Chicken Wings,Non-Veg,Tuesday,94
+Chicken Wings,Non-Veg,Wednesday,127
+Chicken Wings,Non-Veg,Thursday,143
+Chicken Wings,Non-Veg,Friday,142
+Chicken Wings,Non-Veg,Saturday,213
+Chicken Wings,Non-Veg,Sunday,229
+Egg Biryani,Non-Veg,Monday,48
+Egg Biryani,Non-Veg,Tuesday,58
+Egg Biryani,Non-Veg,Wednesday,72
+Egg Biryani,Non-Veg,Thursday,73
+Egg Biryani,Non-Veg,Friday,83
+Egg Biryani,Non-Veg,Saturday,106
+Egg Biryani,Non-Veg,Sunday,79
+Egg Curry,Non-Veg,Monday,85
+Egg Curry,Non-Veg,Tuesday,52
+Egg Curry,Non-Veg,Wednesday,70
+Egg Curry,Non-Veg,Thursday,74
+Egg Curry,Non-Veg,Friday,104
+Egg Curry,Non-Veg,Saturday,147
+Egg Curry,Non-Veg,Sunday,201
+Egg Fried Rice,Non-Veg,Monday,140
+Egg Fried Rice,Non-Veg,Tuesday,160
+Egg Fried Rice,Non-Veg,Wednesday,153
+Egg Fried Rice,Non-Veg,Thursday,169
+Egg Fried Rice,Non-Veg,Friday,190
+Egg Fried Rice,Non-Veg,Saturday,279
+Egg Fried Rice,Non-Veg,Sunday,320
+Egg Noodles,Non-Veg,Monday,119
+Egg Noodles,Non-Veg,Tuesday,153
+Egg Noodles,Non-Veg,Wednesday,141
+Egg Noodles,Non-Veg,Thursday,163
+Egg Noodles,Non-Veg,Friday,165
+Egg Noodles,Non-Veg,Saturday,251
+Egg Noodles,Non-Veg,Sunday,218
+Egg Paratha,Non-Veg,Monday,102
+Egg Paratha,Non-Veg,Tuesday,106
+Egg Paratha,Non-Veg,Wednesday,127
+Egg Paratha,Non-Veg,Thursday,123
+Egg Paratha,Non-Veg,Friday,151
+Egg Paratha,Non-Veg,Saturday,204
+Egg Paratha,Non-Veg,Sunday,220
+Egg Roll,Non-Veg,Monday,95
+Egg Roll,Non-Veg,Tuesday,105
+Egg Roll,Non-Veg,Wednesday,99
+Egg Roll,Non-Veg,Thursday,119
+Egg Roll,Non-Veg,Friday,131
+Egg Roll,Non-Veg,Saturday,161
+Egg Roll,Non-Veg,Sunday,180
+Fish Biryani,Non-Veg,Monday,88
+Fish Biryani,Non-Veg,Tuesday,95
+Fish Biryani,Non-Veg,Wednesday,58
+Fish Biryani,Non-Veg,Thursday,71
+Fish Biryani,Non-Veg,Friday,72
+Fish Biryani,Non-Veg,Saturday,139
+Fish Biryani,Non-Veg,Sunday,178
+Fish Curry,Non-Veg,Monday,142
+Fish Curry,Non-Veg,Tuesday,144
+Fish Curry,Non-Veg,Wednesday,164
+Fish Curry,Non-Veg,Thursday,164
+Fish Curry,Non-Veg,Friday,230
+Fish Curry,Non-Veg,Saturday,309
+Fish Curry,Non-Veg,Sunday,310
+Fish Fry,Non-Veg,Monday,105
+Fish Fry,Non-Veg,Tuesday,133
+Fish Fry,Non-Veg,Wednesday,125
+Fish Fry,Non-Veg,Thursday,129
+Fish Fry,Non-Veg,Friday,150
+Fish Fry,Non-Veg,Saturday,224
+Fish Fry,Non-Veg,Sunday,221
+Mutton Biryani,Non-Veg,Monday,140
+Mutton Biryani,Non-Veg,Tuesday,129
+Mutton Biryani,Non-Veg,Wednesday,163
+Mutton Biryani,Non-Veg,Thursday,159
+Mutton Biryani,Non-Veg,Friday,214
+Mutton Biryani,Non-Veg,Saturday,231
+Mutton Biryani,Non-Veg,Sunday,280
+Mutton Curry,Non-Veg,Monday,64
+Mutton Curry,Non-Veg,Tuesday,68
+Mutton Curry,Non-Veg,Wednesday,80
+Mutton Curry,Non-Veg,Thursday,72
+Mutton Curry,Non-Veg,Friday,77
+Mutton Curry,Non-Veg,Saturday,77
+Mutton Curry,Non-Veg,Sunday,91
+Mutton Kebab,Non-Veg,Monday,135
+Mutton Kebab,Non-Veg,Tuesday,116
+Mutton Kebab,Non-Veg,Wednesday,147
+Mutton Kebab,Non-Veg,Thursday,148
+Mutton Kebab,Non-Veg,Friday,161
+Mutton Kebab,Non-Veg,Saturday,272
+Mutton Kebab,Non-Veg,Sunday,267
+Mutton Rogan Josh,Non-Veg,Monday,114
+Mutton Rogan Josh,Non-Veg,Tuesday,132
+Mutton Rogan Josh,Non-Veg,Wednesday,127
+Mutton Rogan Josh,Non-Veg,Thursday,127
+Mutton Rogan Josh,Non-Veg,Friday,134
+Mutton Rogan Josh,Non-Veg,Saturday,201
+Mutton Rogan Josh,Non-Veg,Sunday,266
+Pepper Chicken,Non-Veg,Monday,93
+Pepper Chicken,Non-Veg,Tuesday,80
+Pepper Chicken,Non-Veg,Wednesday,60
+Pepper Chicken,Non-Veg,Thursday,93
+Pepper Chicken,Non-Veg,Friday,80
+Pepper Chicken,Non-Veg,Saturday,104
+Pepper Chicken,Non-Veg,Sunday,166
+Prawn Biryani,Non-Veg,Monday,83
+Prawn Biryani,Non-Veg,Tuesday,75
+Prawn Biryani,Non-Veg,Wednesday,101
+Prawn Biryani,Non-Veg,Thursday,79
+Prawn Biryani,Non-Veg,Friday,94
+Prawn Biryani,Non-Veg,Saturday,128
+Prawn Biryani,Non-Veg,Sunday,133
+Prawn Fry,Non-Veg,Monday,58
+Prawn Fry,Non-Veg,Tuesday,66
+Prawn Fry,Non-Veg,Wednesday,53
+Prawn Fry,Non-Veg,Thursday,65
+Prawn Fry,Non-Veg,Friday,68
+Prawn Fry,Non-Veg,Saturday,163
+Prawn Fry,Non-Veg,Sunday,133
+Tandoori Chicken,Non-Veg,Monday,89
+Tandoori Chicken,Non-Veg,Tuesday,86
+Tandoori Chicken,Non-Veg,Wednesday,78
+Tandoori Chicken,Non-Veg,Thursday,123
+Tandoori Chicken,Non-Veg,Friday,136
+Tandoori Chicken,Non-Veg,Saturday,167
+Tandoori Chicken,Non-Veg,Sunday,221
+Aloo Gobi,Veg,Monday,121
+Aloo Gobi,Veg,Tuesday,141
+Aloo Gobi,Veg,Wednesday,138
+Aloo Gobi,Veg,Thursday,138
+Aloo Gobi,Veg,Friday,172
+Aloo Gobi,Veg,Saturday,227
+Aloo Gobi,Veg,Sunday,232
+Bhel Puri,Veg,Monday,64
+Bhel Puri,Veg,Tuesday,47
+Bhel Puri,Veg,Wednesday,73
+Bhel Puri,Veg,Thursday,83
+Bhel Puri,Veg,Friday,84
+Bhel Puri,Veg,Saturday,133
+Bhel Puri,Veg,Sunday,90
+Cheese Pizza,Veg,Monday,102
+Cheese Pizza,Veg,Tuesday,133
+Cheese Pizza,Veg,Wednesday,125
+Cheese Pizza,Veg,Thursday,118
+Cheese Pizza,Veg,Friday,148
+Cheese Pizza,Veg,Saturday,195
+Cheese Pizza,Veg,Sunday,211
+Chole Bhature,Veg,Monday,56
+Chole Bhature,Veg,Tuesday,51
+Chole Bhature,Veg,Wednesday,47
+Chole Bhature,Veg,Thursday,52
+Chole Bhature,Veg,Friday,71
+Chole Bhature,Veg,Saturday,87
+Chole Bhature,Veg,Sunday,111
+Dahi Puri,Veg,Monday,65
+Dahi Puri,Veg,Tuesday,67
+Dahi Puri,Veg,Wednesday,73
+Dahi Puri,Veg,Thursday,86
+Dahi Puri,Veg,Friday,104
+Dahi Puri,Veg,Saturday,102
+Dahi Puri,Veg,Sunday,129
+Dal Tadka,Veg,Monday,50
+Dal Tadka,Veg,Tuesday,68
+Dal Tadka,Veg,Wednesday,75
+Dal Tadka,Veg,Thursday,71
+Dal Tadka,Veg,Friday,71
+Dal Tadka,Veg,Saturday,87
+Dal Tadka,Veg,Sunday,116
+French Fries,Veg,Monday,83
+French Fries,Veg,Tuesday,77
+French Fries,Veg,Wednesday,84
+French Fries,Veg,Thursday,85
+French Fries,Veg,Friday,82
+French Fries,Veg,Saturday,145
+French Fries,Veg,Sunday,146
+Gobi Manchurian,Veg,Monday,49
+Gobi Manchurian,Veg,Tuesday,36
+Gobi Manchurian,Veg,Wednesday,59
+Gobi Manchurian,Veg,Thursday,67
+Gobi Manchurian,Veg,Friday,70
+Gobi Manchurian,Veg,Saturday,63
+Gobi Manchurian,Veg,Sunday,74
+Idli,Veg,Monday,86
+Idli,Veg,Tuesday,82
+Idli,Veg,Wednesday,93
+Idli,Veg,Thursday,95
+Idli,Veg,Friday,128
+Idli,Veg,Saturday,147
+Idli,Veg,Sunday,153
+Jeera Rice,Veg,Monday,50
+Jeera Rice,Veg,Tuesday,56
+Jeera Rice,Veg,Wednesday,81
+Jeera Rice,Veg,Thursday,61
+Jeera Rice,Veg,Friday,77
+Jeera Rice,Veg,Saturday,121
+Jeera Rice,Veg,Sunday,95
+Margherita Pizza,Veg,Monday,102
+Margherita Pizza,Veg,Tuesday,105
+Margherita Pizza,Veg,Wednesday,108
+Margherita Pizza,Veg,Thursday,115
+Margherita Pizza,Veg,Friday,129
+Margherita Pizza,Veg,Saturday,154
+Margherita Pizza,Veg,Sunday,190
+Masala Dosa,Veg,Monday,70
+Masala Dosa,Veg,Tuesday,90
+Masala Dosa,Veg,Wednesday,87
+Masala Dosa,Veg,Thursday,102
+Masala Dosa,Veg,Friday,98
+Masala Dosa,Veg,Saturday,130
+Masala Dosa,Veg,Sunday,142
+Mushroom Biryani,Veg,Monday,113
+Mushroom Biryani,Veg,Tuesday,109
+Mushroom Biryani,Veg,Wednesday,123
+Mushroom Biryani,Veg,Thursday,125
+Mushroom Biryani,Veg,Friday,157
+Mushroom Biryani,Veg,Saturday,203
+Mushroom Biryani,Veg,Sunday,213
+Mushroom Masala,Veg,Monday,132
+Mushroom Masala,Veg,Tuesday,153
+Mushroom Masala,Veg,Wednesday,152
+Mushroom Masala,Veg,Thursday,149
+Mushroom Masala,Veg,Friday,164
+Mushroom Masala,Veg,Saturday,224
+Mushroom Masala,Veg,Sunday,271
+Palak Paneer,Veg,Monday,91
+Palak Paneer,Veg,Tuesday,121
+Palak Paneer,Veg,Wednesday,115
+Palak Paneer,Veg,Thursday,103
+Palak Paneer,Veg,Friday,145
+Palak Paneer,Veg,Saturday,192
+Palak Paneer,Veg,Sunday,259
+Paneer Biryani,Veg,Monday,77
+Paneer Biryani,Veg,Tuesday,98
+Paneer Biryani,Veg,Wednesday,85
+Paneer Biryani,Veg,Thursday,90
+Paneer Biryani,Veg,Friday,116
+Paneer Biryani,Veg,Saturday,165
+Paneer Biryani,Veg,Sunday,165
+Paneer Butter Masala,Veg,Monday,96
+Paneer Butter Masala,Veg,Tuesday,134
+Paneer Butter Masala,Veg,Wednesday,123
+Paneer Butter Masala,Veg,Thursday,134
+Paneer Butter Masala,Veg,Friday,165
+Paneer Butter Masala,Veg,Saturday,207
+Paneer Butter Masala,Veg,Sunday,236
+Paneer Kathi Roll,Veg,Monday,88
+Paneer Kathi Roll,Veg,Tuesday,87
+Paneer Kathi Roll,Veg,Wednesday,64
+Paneer Kathi Roll,Veg,Thursday,83
+Paneer Kathi Roll,Veg,Friday,100
+Paneer Kathi Roll,Veg,Saturday,103
+Paneer Kathi Roll,Veg,Sunday,130
+Paneer Tikka,Veg,Monday,105
+Paneer Tikka,Veg,Tuesday,133
+Paneer Tikka,Veg,Wednesday,125
+Paneer Tikka,Veg,Thursday,139
+Paneer Tikka,Veg,Friday,175
+Paneer Tikka,Veg,Saturday,194
+Paneer Tikka,Veg,Sunday,204
+Paneer Wrap,Veg,Monday,63
+Paneer Wrap,Veg,Tuesday,43
+Paneer Wrap,Veg,Wednesday,41
+Paneer Wrap,Veg,Thursday,68
+Paneer Wrap,Veg,Friday,86
+Paneer Wrap,Veg,Saturday,88
+Paneer Wrap,Veg,Sunday,118
+Pav Bhaji,Veg,Monday,129
+Pav Bhaji,Veg,Tuesday,131
+Pav Bhaji,Veg,Wednesday,123
+Pav Bhaji,Veg,Thursday,126
+Pav Bhaji,Veg,Friday,136
+Pav Bhaji,Veg,Saturday,186
+Pav Bhaji,Veg,Sunday,217
+Pongal,Veg,Monday,65
+Pongal,Veg,Tuesday,52
+Pongal,Veg,Wednesday,77
+Pongal,Veg,Thursday,62
+Pongal,Veg,Friday,58
+Pongal,Veg,Saturday,109
+Pongal,Veg,Sunday,81
+Poori,Veg,Monday,104
+Poori,Veg,Tuesday,93
+Poori,Veg,Wednesday,80
+Poori,Veg,Thursday,94
+Poori,Veg,Friday,84
+Poori,Veg,Saturday,101
+Poori,Veg,Sunday,157
+Rajma Rice,Veg,Monday,106
+Rajma Rice,Veg,Tuesday,133
+Rajma Rice,Veg,Wednesday,112
+Rajma Rice,Veg,Thursday,147
+Rajma Rice,Veg,Friday,134
+Rajma Rice,Veg,Saturday,211
+Rajma Rice,Veg,Sunday,264
+Samosa,Veg,Monday,51
+Samosa,Veg,Tuesday,48
+Samosa,Veg,Wednesday,63
+Samosa,Veg,Thursday,56
+Samosa,Veg,Friday,50
+Samosa,Veg,Saturday,73
+Samosa,Veg,Sunday,107
+Upma,Veg,Monday,74
+Upma,Veg,Tuesday,88
+Upma,Veg,Wednesday,64
+Upma,Veg,Thursday,93
+Upma,Veg,Friday,98
+Upma,Veg,Saturday,124
+Upma,Veg,Sunday,162
+Vada,Veg,Monday,82
+Vada,Veg,Tuesday,101
+Vada,Veg,Wednesday,119
+Vada,Veg,Thursday,104
+Vada,Veg,Friday,117
+Vada,Veg,Saturday,143
+Vada,Veg,Sunday,156
+Veg Biryani,Veg,Monday,67
+Veg Biryani,Veg,Tuesday,69
+Veg Biryani,Veg,Wednesday,76
+Veg Biryani,Veg,Thursday,63
+Veg Biryani,Veg,Friday,78
+Veg Biryani,Veg,Saturday,102
+Veg Biryani,Veg,Sunday,92
+Veg Burger,Veg,Monday,112
+Veg Burger,Veg,Tuesday,108
+Veg Burger,Veg,Wednesday,117
+Veg Burger,Veg,Thursday,125
+Veg Burger,Veg,Friday,129
+Veg Burger,Veg,Saturday,196
+Veg Burger,Veg,Sunday,221
+Veg Fried Rice,Veg,Monday,67
+Veg Fried Rice,Veg,Tuesday,69
+Veg Fried Rice,Veg,Wednesday,75
+Veg Fried Rice,Veg,Thursday,68
+Veg Fried Rice,Veg,Friday,119
+Veg Fried Rice,Veg,Saturday,82
+Veg Fried Rice,Veg,Sunday,101
+Veg Manchurian,Veg,Monday,80
+Veg Manchurian,Veg,Tuesday,73
+Veg Manchurian,Veg,Wednesday,86
+Veg Manchurian,Veg,Thursday,86
+Veg Manchurian,Veg,Friday,128
+Veg Manchurian,Veg,Saturday,123
+Veg Manchurian,Veg,Sunday,107
+Veg Momos,Veg,Monday,79
+Veg Momos,Veg,Tuesday,97
+Veg Momos,Veg,Wednesday,74
+Veg Momos,Veg,Thursday,88
+Veg Momos,Veg,Friday,140
+Veg Momos,Veg,Saturday,181
+Veg Momos,Veg,Sunday,172
+Veg Noodles,Veg,Monday,56
+Veg Noodles,Veg,Tuesday,61
+Veg Noodles,Veg,Wednesday,55
+Veg Noodles,Veg,Thursday,64
+Veg Noodles,Veg,Friday,47
+Veg Noodles,Veg,Saturday,93
+Veg Noodles,Veg,Sunday,113
+Veg Pulao,Veg,Monday,137
+Veg Pulao,Veg,Tuesday,157
+Veg Pulao,Veg,Wednesday,124
+Veg Pulao,Veg,Thursday,135
+Veg Pulao,Veg,Friday,140
+Veg Pulao,Veg,Saturday,230
+Veg Pulao,Veg,Sunday,256
+Veg Sandwich,Veg,Monday,53
+Veg Sandwich,Veg,Tuesday,59
+Veg Sandwich,Veg,Wednesday,58
+Veg Sandwich,Veg,Thursday,61
+Veg Sandwich,Veg,Friday,58
+Veg Sandwich,Veg,Saturday,69
+Veg Sandwich,Veg,Sunday,60
