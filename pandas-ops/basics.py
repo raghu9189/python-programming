@@ -51,7 +51,6 @@ print(df["Name"])
 # Selecting Rows
 print(df.loc[0])
 
-
 matrix_1 = pd.DataFrame(np.arange(1, 10, 1).reshape(3, 3))
 
 matrix_2 = pd.DataFrame(np.arange(1, 10, 1).reshape(3, 3))
