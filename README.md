@@ -1,6 +1,21 @@
-# Python Practice: Data Science & Data Analytics
+# Python Practice: Data Analytics & Data Engineering
 
-Welcome to your Python programming workspace for your **Data Science and Data Analytics** course! This repository is set up for your practice code, exercises, and analysis.
+Welcome to my Python programming workspace dedicated to **Data Analytics** and **Data Engineering** practice! This repository serves as a centralized hub for all my code, exercises, projects, and explorations in these domains.
+
+---
+
+## 📂 Repository Structure
+
+This repository contains various modules and practice sets covering different aspects of Python, Data Analytics, and Data Engineering:
+
+* **Core Python**: `data-types.py`, `args-kwargs.py`, `lambda-func.py`, `map-filter-reduce.py`, etc.
+* **Object-Oriented Programming (OOP)**: `oops/`
+* **Data Structures & Concepts**: `list-comprehension.py`, `generators/`, `iterators/`, `deep-shallow-copy.py`
+* **Data Manipulation & Analysis**: `pandas-ops/`, `numpy-ops/`
+* **Data Visualization**: `seaborn-ops/`
+* **Data Collection (Web Scraping)**: `web-scraping/`
+* **Practice Projects**: `zomato-practice-set/`
+* **File Operations**: `file-ops/`
 
 ---
 
@@ -20,17 +35,14 @@ source venv/bin/activate
 
 # On Windows (Command Prompt):
 # venv\Scripts\activate.bat
-
-# On Windows (PowerShell):
-# venv\Scripts\Activate.ps1
 ```
 
-### 2. Common Data Science Libraries to Install
+### 2. Common Data Analytics & Engineering Libraries
 
-You can install the essential toolkit of libraries for data exploration, analysis, visualization, and modeling as you need them:
+You can install the essential toolkit of libraries for data ingestion, manipulation, analysis, and visualization:
 
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn jupyter
+pip install pandas numpy matplotlib seaborn jupyter requests beautifulsoup4
 ```
 
 ---
@@ -39,5 +51,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 
 * **Avoid committing large datasets**: The `.gitignore` is already set up to ignore common dataset files (like `.csv`, `.xlsx`, `.parquet`, `.json`) so you don't accidentally push large files to GitHub.
 * **Keep your workspace clean**: Create separate files or folders for different course topics, assignments, or practice sessions.
+* **Document your code**: Add comments and markdown cells in Jupyter Notebooks to explain the *why* behind your data transformations and analysis.
 
 Happy learning & coding! 🚀
